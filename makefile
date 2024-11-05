@@ -1,2 +1,2 @@
 hugo-server:
-	hugo server -s src -t hugo-theme-console --cleanDestinationDir --themesDir themes
+	hugo server -t hugo-theme-console --cleanDestinationDir
