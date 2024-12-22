@@ -13,6 +13,10 @@ languageCode = "en-us"
     animateStyle = "animated zoomIn fast"
 
     [[params.navlinks]]
+        name = "GitHub"
+        url = "https://github.com/0xFryl"
+
+    [[params.navlinks]]
         name = "Twitter"
         url = "https://x.com/0xFryl"
 
