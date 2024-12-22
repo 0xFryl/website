@@ -1,2 +1,3 @@
 User-agent: *
-Disallow: /
+Disallow: /img/*
+Sitemap: https://fryl.dev/sitemap.xml
